@@ -1,6 +1,6 @@
 # CSCI-SHU 360 Final Project
 
-A simple machine learning model predicting the peak bloom date of cherry trees based on temperature data.
+A SVM and LSTM-based machine learning model predicting the peak bloom date of cherry trees based on temperature data.
 
 Data Sources
 - Washington DC temperature data: [United States National Centers for Environmental Information](https://www.ncdc.noaa.gov/cdo-web/)
